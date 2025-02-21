@@ -1,0 +1,218 @@
+{
+  "MXCT3Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Plata",
+    "precio_base": 1529,
+    "precio_total": 1856.5393,
+    "importe_no_sub": 856.5393
+  },
+  "MXCR3Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Gris Espacial",
+    "precio_base": 1529,
+    "precio_total": 1856.5393,
+    "importe_no_sub": 856.5393
+  },
+  "MXCU3Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Blanco Estrella",
+    "precio_base": 1529,
+    "precio_total": 1856.5393,
+    "importe_no_sub": 856.5393
+  },
+  "MXCV3Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Medianoche",
+    "precio_base": 1529,
+    "precio_total": 1856.5393,
+    "importe_no_sub": 856.5393
+  },
+  "MC8N4Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Plata",
+    "precio_base": 1759,
+    "precio_total": 2134.8393,
+    "importe_no_sub": 1134.8393
+  },
+  "MC8M4Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Gris Espacial",
+    "precio_base": 1759,
+    "precio_total": 2134.8393,
+    "importe_no_sub": 1134.8393
+  },
+  "MC8P4Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Blanco Estrella",
+    "precio_base": 1759,
+    "precio_total": 2134.8393,
+    "importe_no_sub": 1134.8393
+  },
+  "MC8Q4Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Medianoche",
+    "precio_base": 1759,
+    "precio_total": 2134.8393,
+    "importe_no_sub": 1134.8393
+  },
+  "MXD23Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Plata",
+    "precio_base": 1829,
+    "precio_total": 2219.5393,
+    "importe_no_sub": 1219.5393
+  },
+  "MXD13Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Gris Espacial",
+    "precio_base": 1829,
+    "precio_total": 2219.5393,
+    "importe_no_sub": 1219.5393
+  },
+  "MXD33Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Blanco Estrella",
+    "precio_base": 1829,
+    "precio_total": 2219.5393,
+    "importe_no_sub": 1219.5393
+  },
+  "MXD43Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Medianoche",
+    "precio_base": 1829,
+    "precio_total": 2219.5393,
+    "importe_no_sub": 1219.5393
+  },
+  "MC9J4Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Plata",
+    "precio_base": 2059,
+    "precio_total": 2497.8393,
+    "importe_no_sub": 1497.8393
+  },
+  "MC9H4Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Gris Espacial",
+    "precio_base": 2059,
+    "precio_total": 2497.8393,
+    "importe_no_sub": 1497.8393
+  },
+  "MC9K4Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Blanco Estrella",
+    "precio_base": 2059,
+    "precio_total": 2497.8393,
+    "importe_no_sub": 1497.8393
+  },
+  "MC9L4Y-A": {
+    "descripcion": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Medianoche",
+    "precio_base": 2059,
+    "precio_total": 2497.8393,
+    "importe_no_sub": 1497.8393
+  },
+  "MW2W3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 10 Núcleos/16GB/512GB SSD/GPU 10 Núcleos/14\" Plata",
+    "precio_base": 1929,
+    "precio_total": 2340.5393,
+    "importe_no_sub": 1340.5393
+  },
+  "MW2U3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 10 Núcleos/16GB/512GB SSD/GPU 10 Núcleos/14\" Negro Espacial",
+    "precio_base": 1929,
+    "precio_total": 2340.5393,
+    "importe_no_sub": 1340.5393
+  },
+  "MW2X3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 10 Núcleos/16GB/1TB SSD/GPU 10 Núcleos/14\" Plata",
+    "precio_base": 2159,
+    "precio_total": 2618.8393,
+    "importe_no_sub": 1618.8393
+  },
+  "MW2V3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 10 Núcleos/16GB/1TB SSD/GPU 10 Núcleos/14\" Negro Espacial",
+    "precio_base": 2159,
+    "precio_total": 2618.8393,
+    "importe_no_sub": 1618.8393
+  },
+  "MCX14Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 10 Núcleos/24GB/1TB SSD/GPU 10 Núcleos/14\" Plata",
+    "precio_base": 2389,
+    "precio_total": 2897.1393,
+    "importe_no_sub": 1897.1393
+  },
+  "MCX04Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 10 Núcleos/24GB/1TB SSD/GPU 10 Núcleos/14\" Negro Espacial",
+    "precio_base": 2389,
+    "precio_total": 2897.1393,
+    "importe_no_sub": 1897.1393
+  },
+  "MX2E3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Pro 12 Núcleos/24GB/512GB SSD/GPU 16 Núcleos/14\" Plata",
+    "precio_base": 2449,
+    "precio_total": 2969.7393,
+    "importe_no_sub": 1969.7393
+  },
+  "MX2H3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Pro 12 Núcleos/24GB/512GB SSD/GPU 16 Núcleos/14\" Negro Espacial",
+    "precio_base": 2449,
+    "precio_total": 2969.7393,
+    "importe_no_sub": 1969.7393
+  },
+  "MX2F3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/24GB/1TB SSD/GPU 20 Núcleos/14\" Plata",
+    "precio_base": 2949,
+    "precio_total": 3574.7393,
+    "importe_no_sub": 2574.7393
+  },
+  "MX2J3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/24GB/1TB SSD/GPU 20 Núcleos/14\" Negro Espacial",
+    "precio_base": 2949,
+    "precio_total": 3574.7393,
+    "importe_no_sub": 2574.7393
+  },
+  "MX2G3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Max 14 Núcleos/36GB/1TB SSD/GPU 32 Núcleos/14\" Plata",
+    "precio_base": 3849,
+    "precio_total": 4663.7393,
+    "importe_no_sub": 3663.7393
+  },
+  "MX2K3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Max 14 Núcleos/36GB/1TB SSD/GPU 32 Núcleos/14\" Negro Espacial",
+    "precio_base": 3849,
+    "precio_total": 4663.7393,
+    "importe_no_sub": 3663.7393
+  },
+  "MX2T3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/24GB/512GB SSD/GPU 20 Núcleos/16\" Plata",
+    "precio_base": 2949,
+    "precio_total": 3574.7393,
+    "importe_no_sub": 2574.7393
+  },
+  "MX2X3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/24GB/512GB SSD/GPU 20 Núcleos/16\" Negro Espacial",
+    "precio_base": 2949,
+    "precio_total": 3574.7393,
+    "importe_no_sub": 2574.7393
+  },
+  "MX2U3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/48GB/512GB SSD/GPU 20 Núcleos/16\" Plata",
+    "precio_base": 3409,
+    "precio_total": 4131.3393,
+    "importe_no_sub": 3131.3393
+  },
+  "MX2Y3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/48GB/512GB SSD/GPU 20 Núcleos/16\" Negro Espacial",
+    "precio_base": 3409,
+    "precio_total": 4131.3393,
+    "importe_no_sub": 3131.3393
+  },
+  "MX2V3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Max 14 Núcleos/36GB/1TB SSD/GPU 32 Núcleos/16\" Plata",
+    "precio_base": 4149,
+    "precio_total": 5026.7393,
+    "importe_no_sub": 4026.7393
+  },
+  "MX303Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Max 14 Núcleos/36GB/1TB SSD/GPU 32 Núcleos/16\" Negro Espacial",
+    "precio_base": 4149,
+    "precio_total": 5026.7393,
+    "importe_no_sub": 4026.7393
+  },
+  "MX2W3Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Max 16 Núcleos/48GB/1TB SSD/GPU 40 Núcleos/16\" Plata",
+    "precio_base": 4749,
+    "precio_total": 5752.7393,
+    "importe_no_sub": 4752.7393
+  },
+  "MX313Y-A": {
+    "descripcion": "Apple MacBook Pro Apple M4 Max 16 Núcleos/48GB/1TB SSD/GPU 40 Núcleos/16\" Negro Espacial",
+    "precio_base": 4749,
+    "precio_total": 5752.7393,
+    "importe_no_sub": 4752.7393
+  }
+}
