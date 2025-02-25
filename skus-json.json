@@ -1,0 +1,362 @@
+[
+  {
+    "SKU": "MXCT3Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Plata",
+    "IMPORTE_TOTAL": 1529,
+    "IMP_NO_SUB": 529,
+    "TAX": 321.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 850.09,
+    "TOTAL_ENV_ESP": 1100.09
+  },
+  {
+    "SKU": "MXCR3Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Gris Espacial",
+    "IMPORTE_TOTAL": 1529,
+    "IMP_NO_SUB": 529,
+    "TAX": 321.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 850.09,
+    "TOTAL_ENV_ESP": 1100.09
+  },
+  {
+    "SKU": "MXCU3Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Blanco Estrella",
+    "IMPORTE_TOTAL": 1529,
+    "IMP_NO_SUB": 529,
+    "TAX": 321.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 850.09,
+    "TOTAL_ENV_ESP": 1100.09
+  },
+  {
+    "SKU": "MXCV3Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Medianoche",
+    "IMPORTE_TOTAL": 1529,
+    "IMP_NO_SUB": 529,
+    "TAX": 321.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 850.09,
+    "TOTAL_ENV_ESP": 1100.09
+  },
+  {
+    "SKU": "MC8N4Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Plata",
+    "IMPORTE_TOTAL": 1759,
+    "IMP_NO_SUB": 759,
+    "TAX": 369.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1128.39,
+    "TOTAL_ENV_ESP": 1378.39
+  },
+  {
+    "SKU": "MC8M4Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Gris Espacial",
+    "IMPORTE_TOTAL": 1759,
+    "IMP_NO_SUB": 759,
+    "TAX": 369.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1128.39,
+    "TOTAL_ENV_ESP": 1378.39
+  },
+  {
+    "SKU": "MC8P4Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Blanco Estrella",
+    "IMPORTE_TOTAL": 1759,
+    "IMP_NO_SUB": 759,
+    "TAX": 369.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1128.39,
+    "TOTAL_ENV_ESP": 1378.39
+  },
+  {
+    "SKU": "MC8Q4Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Medianoche",
+    "IMPORTE_TOTAL": 1759,
+    "IMP_NO_SUB": 759,
+    "TAX": 369.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1128.39,
+    "TOTAL_ENV_ESP": 1378.39
+  },
+  {
+    "SKU": "MXD23Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Plata",
+    "IMPORTE_TOTAL": 1829,
+    "IMP_NO_SUB": 829,
+    "TAX": 384.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1213.09,
+    "TOTAL_ENV_ESP": 1463.09
+  },
+  {
+    "SKU": "MXD13Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Gris Espacial",
+    "IMPORTE_TOTAL": 1829,
+    "IMP_NO_SUB": 829,
+    "TAX": 384.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1213.09,
+    "TOTAL_ENV_ESP": 1463.09
+  },
+  {
+    "SKU": "MXD33Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Blanco Estrella",
+    "IMPORTE_TOTAL": 1829,
+    "IMP_NO_SUB": 829,
+    "TAX": 384.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1213.09,
+    "TOTAL_ENV_ESP": 1463.09
+  },
+  {
+    "SKU": "MXD43Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Medianoche",
+    "IMPORTE_TOTAL": 1829,
+    "IMP_NO_SUB": 829,
+    "TAX": 384.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1213.09,
+    "TOTAL_ENV_ESP": 1463.09
+  },
+  {
+    "SKU": "MC9J4Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Plata",
+    "IMPORTE_TOTAL": 2059,
+    "IMP_NO_SUB": 1059,
+    "TAX": 432.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1491.39,
+    "TOTAL_ENV_ESP": 1741.39
+  },
+  {
+    "SKU": "MC9H4Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Gris Espacial",
+    "IMPORTE_TOTAL": 2059,
+    "IMP_NO_SUB": 1059,
+    "TAX": 432.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1491.39,
+    "TOTAL_ENV_ESP": 1741.39
+  },
+  {
+    "SKU": "MC9K4Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Blanco Estrella",
+    "IMPORTE_TOTAL": 2059,
+    "IMP_NO_SUB": 1059,
+    "TAX": 432.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1491.39,
+    "TOTAL_ENV_ESP": 1741.39
+  },
+  {
+    "SKU": "MC9L4Y-A",
+    "SKU_DESC": "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Medianoche",
+    "IMPORTE_TOTAL": 2059,
+    "IMP_NO_SUB": 1059,
+    "TAX": 432.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1491.39,
+    "TOTAL_ENV_ESP": 1741.39
+  },
+  {
+    "SKU": "MW2W3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 10 Núcleos/16GB/512GB SSD/GPU 10 Núcleos/14\" Plata",
+    "IMPORTE_TOTAL": 1929,
+    "IMP_NO_SUB": 929,
+    "TAX": 405.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1334.09,
+    "TOTAL_ENV_ESP": 1584.09
+  },
+  {
+    "SKU": "MW2U3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 10 Núcleos/16GB/512GB SSD/GPU 10 Núcleos/14\" Negro Espacial",
+    "IMPORTE_TOTAL": 1929,
+    "IMP_NO_SUB": 929,
+    "TAX": 405.09,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1334.09,
+    "TOTAL_ENV_ESP": 1584.09
+  },
+  {
+    "SKU": "MW2X3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 10 Núcleos/16GB/1TB SSD/GPU 10 Núcleos/14\" Plata",
+    "IMPORTE_TOTAL": 2159,
+    "IMP_NO_SUB": 1159,
+    "TAX": 453.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1612.39,
+    "TOTAL_ENV_ESP": 1862.39
+  },
+  {
+    "SKU": "MW2V3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 10 Núcleos/16GB/1TB SSD/GPU 10 Núcleos/14\" Negro Espacial",
+    "IMPORTE_TOTAL": 2159,
+    "IMP_NO_SUB": 1159,
+    "TAX": 453.39,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1612.39,
+    "TOTAL_ENV_ESP": 1862.39
+  },
+  {
+    "SKU": "MCX14Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 10 Núcleos/24GB/1TB SSD/GPU 10 Núcleos/14\" Plata",
+    "IMPORTE_TOTAL": 2389,
+    "IMP_NO_SUB": 1389,
+    "TAX": 501.69,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1890.69,
+    "TOTAL_ENV_ESP": 2140.69
+  },
+  {
+    "SKU": "MCX04Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 10 Núcleos/24GB/1TB SSD/GPU 10 Núcleos/14\" Negro Espacial",
+    "IMPORTE_TOTAL": 2389,
+    "IMP_NO_SUB": 1389,
+    "TAX": 501.69,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1890.69,
+    "TOTAL_ENV_ESP": 2140.69
+  },
+  {
+    "SKU": "MX2E3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Pro 12 Núcleos/24GB/512GB SSD/GPU 16 Núcleos/14\" Plata",
+    "IMPORTE_TOTAL": 2449,
+    "IMP_NO_SUB": 1449,
+    "TAX": 514.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1963.29,
+    "TOTAL_ENV_ESP": 2213.29
+  },
+  {
+    "SKU": "MX2H3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Pro 12 Núcleos/24GB/512GB SSD/GPU 16 Núcleos/14\" Negro Espacial",
+    "IMPORTE_TOTAL": 2449,
+    "IMP_NO_SUB": 1449,
+    "TAX": 514.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 1963.29,
+    "TOTAL_ENV_ESP": 2213.29
+  },
+  {
+    "SKU": "MX2F3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/24GB/1TB SSD/GPU 20 Núcleos/14\" Plata",
+    "IMPORTE_TOTAL": 2949,
+    "IMP_NO_SUB": 1949,
+    "TAX": 619.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 2568.29,
+    "TOTAL_ENV_ESP": 2818.29
+  },
+  {
+    "SKU": "MX2J3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/24GB/1TB SSD/GPU 20 Núcleos/14\" Negro Espacial",
+    "IMPORTE_TOTAL": 2949,
+    "IMP_NO_SUB": 1949,
+    "TAX": 619.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 2568.29,
+    "TOTAL_ENV_ESP": 2818.29
+  },
+  {
+    "SKU": "MX2G3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Max 14 Núcleos/36GB/1TB SSD/GPU 32 Núcleos/14\" Plata",
+    "IMPORTE_TOTAL": 3849,
+    "IMP_NO_SUB": 2849,
+    "TAX": 808.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 3657.29,
+    "TOTAL_ENV_ESP": 3907.29
+  },
+  {
+    "SKU": "MX2K3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Max 14 Núcleos/36GB/1TB SSD/GPU 32 Núcleos/14\" Negro Espacial",
+    "IMPORTE_TOTAL": 3849,
+    "IMP_NO_SUB": 2849,
+    "TAX": 808.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 3657.29,
+    "TOTAL_ENV_ESP": 3907.29
+  },
+  {
+    "SKU": "MX2T3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/24GB/512GB SSD/GPU 20 Núcleos/16\" Plata",
+    "IMPORTE_TOTAL": 2949,
+    "IMP_NO_SUB": 1949,
+    "TAX": 619.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 2568.29,
+    "TOTAL_ENV_ESP": 2818.29
+  },
+  {
+    "SKU": "MX2X3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/24GB/512GB SSD/GPU 20 Núcleos/16\" Negro Espacial",
+    "IMPORTE_TOTAL": 2949,
+    "IMP_NO_SUB": 1949,
+    "TAX": 619.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 2568.29,
+    "TOTAL_ENV_ESP": 2818.29
+  },
+  {
+    "SKU": "MX2U3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/48GB/512GB SSD/GPU 20 Núcleos/16\" Plata",
+    "IMPORTE_TOTAL": 3409,
+    "IMP_NO_SUB": 2409,
+    "TAX": 715.89,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 3124.89,
+    "TOTAL_ENV_ESP": 3374.89
+  },
+  {
+    "SKU": "MX2Y3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Pro 14 Núcleos/48GB/512GB SSD/GPU 20 Núcleos/16\" Negro Espacial",
+    "IMPORTE_TOTAL": 3409,
+    "IMP_NO_SUB": 2409,
+    "TAX": 715.89,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 3124.89,
+    "TOTAL_ENV_ESP": 3374.89
+  },
+  {
+    "SKU": "MX2V3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Max 14 Núcleos/36GB/1TB SSD/GPU 32 Núcleos/16\" Plata",
+    "IMPORTE_TOTAL": 4149,
+    "IMP_NO_SUB": 3149,
+    "TAX": 871.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 4020.29,
+    "TOTAL_ENV_ESP": 4270.29
+  },
+  {
+    "SKU": "MX303Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Max 14 Núcleos/36GB/1TB SSD/GPU 32 Núcleos/16\" Negro Espacial",
+    "IMPORTE_TOTAL": 4149,
+    "IMP_NO_SUB": 3149,
+    "TAX": 871.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 4020.29,
+    "TOTAL_ENV_ESP": 4270.29
+  },
+  {
+    "SKU": "MX2W3Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Max 16 Núcleos/48GB/1TB SSD/GPU 40 Núcleos/16\" Plata",
+    "IMPORTE_TOTAL": 4749,
+    "IMP_NO_SUB": 3749,
+    "TAX": 997.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 4746.29,
+    "TOTAL_ENV_ESP": 4996.29
+  },
+  {
+    "SKU": "MX313Y-A",
+    "SKU_DESC": "Apple MacBook Pro Apple M4 Max 16 Núcleos/48GB/1TB SSD/GPU 40 Núcleos/16\" Negro Espacial",
+    "IMPORTE_TOTAL": 4749,
+    "IMP_NO_SUB": 3749,
+    "TAX": 997.29,
+    "IMP_ENT_ESP": 250,
+    "TOTAL": 4746.29,
+    "TOTAL_ENV_ESP": 4996.29
+  }
+]
