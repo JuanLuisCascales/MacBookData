@@ -1,150 +1,150 @@
 {
-"MXCT3Y-A": {
+  "MXCT3Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Plata",
-    "IMPORTE_TOTAL":"1329,00 €",
-    "IMP_NO_SUB":   "329,00 €",       
-    "TAX":          "279,09 €",       
+    "IMPORTE_TOTAL":"1.399,00 €",
+    "IMP_NO_SUB":   "399,00 €",
+    "TAX":          "293,79 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "608,09 €",       
-    "TOTAL_ENV_ESP":"858,09 €"        
+    "TOTAL":        "692,79 €",
+    "TOTAL_ENV_ESP":"942,79 €"
   },
   "MXCR3Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Gris Espacial",
-    "IMPORTE_TOTAL":"1329,00 €",
-    "IMP_NO_SUB":   "329,00 €",
-    "TAX":          "279,09 €",
+    "IMPORTE_TOTAL":"1.399,00 €",
+    "IMP_NO_SUB":   "399,00 €",
+    "TAX":          "293,79 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "608,09 €",
-    "TOTAL_ENV_ESP":"858,09 €"
+    "TOTAL":        "692,79 €",
+    "TOTAL_ENV_ESP":"942,79 €"
   },
   "MXCU3Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Blanco Estrella",
-    "IMPORTE_TOTAL":"1329,00 €",
-    "IMP_NO_SUB":   "329,00 €",
-    "TAX":          "279,09 €",
+    "IMPORTE_TOTAL":"1.399,00 €",
+    "IMP_NO_SUB":   "399,00 €",
+    "TAX":          "293,79 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "608,09 €",
-    "TOTAL_ENV_ESP":"858,09 €"
+    "TOTAL":        "692,79 €",
+    "TOTAL_ENV_ESP":"942,79 €"
   },
   "MXCV3Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/13.6\" Medianoche",
-    "IMPORTE_TOTAL":"1329,00 €",
-    "IMP_NO_SUB":   "329,00 €",
-    "TAX":          "279,09 €",
+    "IMPORTE_TOTAL":"1.399,00 €",
+    "IMP_NO_SUB":   "399,00 €",
+    "TAX":          "293,79 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "608,09 €",
-    "TOTAL_ENV_ESP":"858,09 €"
+    "TOTAL":        "692,79 €",
+    "TOTAL_ENV_ESP":"942,79 €"
   },
 
   "MC8N4Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Plata",
-    "IMPORTE_TOTAL":"1579,00 €",
-    "IMP_NO_SUB":   "579,00 €",
-    "TAX":          "331,59 €",
+    "IMPORTE_TOTAL":"1.619,00 €",
+    "IMP_NO_SUB":   "619,00 €",
+    "TAX":          "340,0 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "910,59 €",
-    "TOTAL_ENV_ESP":"1 160,59 €"
+    "TOTAL":        "959,00 €",
+    "TOTAL_ENV_ESP":"1 209,00 €"
   },
   "MC8M4Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Gris Espacial",
-    "IMPORTE_TOTAL":"1579,00 €",
-    "IMP_NO_SUB":   "579,00 €",
-    "TAX":          "331,59 €",
+    "IMPORTE_TOTAL":"1.619,00 €",
+    "IMP_NO_SUB":   "619,00 €",
+    "TAX":          "340,0 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "910,59 €",
-    "TOTAL_ENV_ESP":"1 160,59 €"
+    "TOTAL":        "959,00 €",
+    "TOTAL_ENV_ESP":"1 209,00 €"
   },
   "MC8P4Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Blanco Estrella",
-    "IMPORTE_TOTAL":"1579,00 €",
-    "IMP_NO_SUB":   "579,00 €",
-    "TAX":          "331,59 €",
+    "IMPORTE_TOTAL":"1.619,00 €",
+    "IMP_NO_SUB":   "619,00 €",
+    "TAX":          "340,0 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "910,59 €",
-    "TOTAL_ENV_ESP":"1 160,59 €"
+    "TOTAL":        "959,00 €",
+    "TOTAL_ENV_ESP":"1 209,00 €"
   },
   "MC8Q4Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/13.6\" Medianoche",
-    "IMPORTE_TOTAL":"1579,00 €",
-    "IMP_NO_SUB":   "579,00 €",
-    "TAX":          "331,59 €",
+    "IMPORTE_TOTAL":"1.619,00 €",
+    "IMP_NO_SUB":   "619,00 €",
+    "TAX":          "340,0 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "910,59 €",
-    "TOTAL_ENV_ESP":"1 160,59 €"
+    "TOTAL":        "959,00 €",
+    "TOTAL_ENV_ESP":"1 209,00 €"
   },
 
   "MXD23Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Plata",
-    "IMPORTE_TOTAL":"1619,00 €",
-    "IMP_NO_SUB":   "619,00 €",
-    "TAX":          "339,99 €",
+    "IMPORTE_TOTAL":"1.659,00 €",
+    "IMP_NO_SUB":   "659,00 €",
+    "TAX":          "348,39 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "958,99 €",
-    "TOTAL_ENV_ESP":"1 208,99 €"
+    "TOTAL":        "1 007,39 €",
+    "TOTAL_ENV_ESP":"1 257,39 €"
   },
   "MXD13Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Gris Espacial",
-    "IMPORTE_TOTAL":"1619,00 €",
-    "IMP_NO_SUB":   "619,00 €",
-    "TAX":          "339,99 €",
+    "IMPORTE_TOTAL":"1.659,00 €",
+    "IMP_NO_SUB":   "659,00 €",
+    "TAX":          "348,39 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "958,99 €",
-    "TOTAL_ENV_ESP":"1 208,99 €"
+    "TOTAL":        "1 007,39 €",
+    "TOTAL_ENV_ESP":"1 257,39 €"
   },
   "MXD33Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Blanco Estrella",
-    "IMPORTE_TOTAL":"1619,00 €",
-    "IMP_NO_SUB":   "619,00 €",
-    "TAX":          "339,99 €",
+    "IMPORTE_TOTAL":"1.659,00 €",
+    "IMP_NO_SUB":   "659,00 €",
+    "TAX":          "348,39 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "958,99 €",
-    "TOTAL_ENV_ESP":"1 208,99 €"
+    "TOTAL":        "1 007,39 €",
+    "TOTAL_ENV_ESP":"1 257,39 €"
   },
   "MXD43Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3/16GB/512GB SSD/GPU 10 Núcleos/15.3\" Medianoche",
-    "IMPORTE_TOTAL":"1619,00 €",
-    "IMP_NO_SUB":   "619,00 €",
-    "TAX":          "339,99 €",
+    "IMPORTE_TOTAL":"1.659,00 €",
+    "IMP_NO_SUB":   "659,00 €",
+    "TAX":          "348,39 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "958,99 €",
-    "TOTAL_ENV_ESP":"1 208,99 €"
+    "TOTAL":        "1 007,39 €",
+    "TOTAL_ENV_ESP":"1 257,39 €"
   },
 
   "MC9J4Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Plata",
-    "IMPORTE_TOTAL":"1869,00 €",
-    "IMP_NO_SUB":   "869,00 €",
-    "TAX":          "392,49 €",
+    "IMPORTE_TOTAL":"1.909,00 €",
+    "IMP_NO_SUB":   "909,00 €",
+    "TAX":          "400,89 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "1 261,49 €",
-    "TOTAL_ENV_ESP":"1 511,49 €"
+    "TOTAL":        "1 309,89 €",
+    "TOTAL_ENV_ESP":"1 559,89 €"
   },
   "MC9H4Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Gris Espacial",
-    "IMPORTE_TOTAL":"1869,00 €",
-    "IMP_NO_SUB":   "869,00 €",
-    "TAX":          "392,49 €",
+    "IMPORTE_TOTAL":"1.909,00 €",
+    "IMP_NO_SUB":   "909,00 €",
+    "TAX":          "400,89 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "1 261,49 €",
-    "TOTAL_ENV_ESP":"1 511,49 €"
+    "TOTAL":        "1 309,89 €",
+    "TOTAL_ENV_ESP":"1 559,89 €"
   },
   "MC9K4Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Blanco Estrella",
-    "IMPORTE_TOTAL":"1869,00 €",
-    "IMP_NO_SUB":   "869,00 €",
-    "TAX":          "392,49 €",
+    "IMPORTE_TOTAL":"1.909,00 €",
+    "IMP_NO_SUB":   "909,00 €",
+    "TAX":          "400,89 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "1 261,49 €",
-    "TOTAL_ENV_ESP":"1 511,49 €"
+    "TOTAL":        "1 309,89 €",
+    "TOTAL_ENV_ESP":"1 559,89 €"
   },
   "MC9L4Y-A": {
     "SKU_DESC":     "Apple MacBook Air Apple M3 8 Núcleos/24GB/512GB SSD/GPU 10 Núcleos/15.3\" Medianoche",
-    "IMPORTE_TOTAL":"1869,00 €",
-    "IMP_NO_SUB":   "869,00 €",
-    "TAX":          "392,49 €",
+    "IMPORTE_TOTAL":"1.909,00 €",
+    "IMP_NO_SUB":   "909,00 €",
+    "TAX":          "400,89 €",
     "IMP_ENT_ESP":  "250,00 €",
-    "TOTAL":        "1 261,49 €",
-    "TOTAL_ENV_ESP":"1 511,49 €"
+    "TOTAL":        "1 309,89 €",
+    "TOTAL_ENV_ESP":"1 559,89 €"
   },
 
   "MW2W3Y-A": {
